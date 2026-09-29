@@ -28,8 +28,8 @@ That said, we keep the rest of the project open and up to date:
 
 | Resource | Link |
 | --- | --- |
-| CIDE Docs | [link] |
-| CIDE Library | [link] |
+| CIDE Docs | [Coming Soon] |
+| CIDE Library | [Coming Soon] |
 | Codename Engine API | https://codename-engine.com/api-docs/ |
 | HaxeFlixel API | https://api.haxeflixel.com/ |
 | Haxe API | https://api.haxe.org/ |
