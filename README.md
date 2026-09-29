@@ -48,14 +48,14 @@ Then add it to your `Project.xml`:
 <haxelib name="cide" />
 ```
 
-Full setup steps are in the [docs]([link]).
+Full setup steps are in the [docs]([Coming Soon]).
 
 ## Community
 
-Have questions, found a bug, or want to show off what you've made? Join our Discord: [link]
+Have questions, found a bug, or want to show off what you've made? Join our Discord: [[link](https://discord.gg/QryCPyYjrN)]
 
-- 🐛 **Bug reports:** open an issue on the relevant repo, or post in `#bug-reports` on Discord
-- 💡 **Suggestions:** we'd love to hear them in `#suggestions`
+- 🐛 **Bug reports:** open an issue on the relevant repo, or post in `#bugs` on Discord
+- 💡 **Suggestions:** we'd love to hear them in `#ideas`
 
 ## Team
 
@@ -78,6 +78,6 @@ AI Disclosure
 Claude Code has helped us during development with things like planning, design feedback & troubleshooting. It does not build CIDE for us. The engine, the editor, and the core systems are designed and written by the Human Developers on CIDE LABS team, and every change goes through us before it ships. we make sure that the code is readable and understandable otherwise whats the point. "AI does not make art, music or anything else other than the base we use to make the classes so we can get a head start but we still end up patching and adjusting the code for general purpose and understanding" - N1ckolasGFX
 
 KainCodeThings makes the documentation, online tutorials, and api by himself with no ai used we try to limit what ai is allowed to do and N1ckolas has used Claude Code since it came out.
- Kain has almost 10 years of experience in multiple coding languages and has worked with other engines like UE5, Unity and Godot.
+ Kain has over 10 years of experience in multiple coding languages and has worked with other engines like UE5, Unity and Godot.
 
 We think of ai the way you'd think of a reference book or a second pair of eyes: useful for getting unstuck, but the work and the decisions are ours. 
