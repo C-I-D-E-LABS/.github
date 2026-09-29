@@ -73,9 +73,11 @@ CIDE is also powered by [HaxeFlixel](https://haxeflixel.com/), [OpenFL](https://
 
 ## AI Disclosure
 
-[!NOTE] CIDE LABS uses Claude (by Anthropic) as a tool, not a solution.
+[NOTE] CIDE LABS uses Claude (by Anthropic) as a tool, not a solution.
 
-Claude Code has helped us during development with things like planning, design feedback & troubleshooting. It does not build CIDE for us. The engine, the editor, and the core systems are designed and written by the Human Developers on CIDE LABS team, and every change goes through us before it ships. we make sure that the code is readable and understandable otherwise whats the point. "AI does not make art, music or anything else other than the base we use to make the classes so we can get a head start but we still end up patching and adjusting the code for general purpose and understanding" - N1ckolasGFX
+Claude Code has helped us during development with things like planning, design feedback & troubleshooting. It does not build CIDE for us. The engine, the editor, and the core systems are designed and written by the Human Developers on CIDE LABS team, and every change goes through us before it ships. we make sure that the code is readable and understandable otherwise whats the point.
+
+"AI does not make art, music or anything else other than the base we use to make the classes so we can get a head start but we still end up patching and adjusting the code for general purpose and understanding" - N1ckolasGFX
 
 KainCodeThings makes the documentation, online tutorials, and api by himself with no ai used we try to limit what ai is allowed to do and N1ckolas has used Claude Code since it came out.
  Kain has over 10 years of experience in multiple coding languages and has worked with other engines like UE5, Unity and Godot.
