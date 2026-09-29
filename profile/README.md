@@ -71,7 +71,7 @@ CIDE is built on **[Codename Engine](https://github.com/CodenameCrew/CodenameEng
 
 CIDE is also powered by [HaxeFlixel](https://haxeflixel.com/), [OpenFL](https://www.openfl.org/), [Lime](https://lime.openfl.org/), and [HScript](https://github.com/HaxeFoundation/hscript).
 
-AI Disclosure
+## AI Disclosure
 
 [!NOTE] CIDE LABS uses Claude (by Anthropic) as a tool, not a solution.
 
